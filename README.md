@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lav13enrose&show_icons=true" alt="lav13enrose" /> </p>
 
 <p align="center">
-<a href="https://stackoverflow.com/cahya-darma-wijaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="cahya-darma-wijaya" height="20" width="20" /></a>
-<a href="https://fb.com/lav13enrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lav13enrose" height="20" width="20" /></a>
-<a href="https://instagram.com/cdwijaya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cdwijaya_" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/cahya-darma-wijaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="cahya-darma-wijaya" height="40" width="40" /></a>
+<a href="https://fb.com/lav13enrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lav13enrose" height="40" width="40" /></a>
+<a href="https://instagram.com/cdwijaya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cdwijaya_" height="40" width="40" /></a>
 </p>
